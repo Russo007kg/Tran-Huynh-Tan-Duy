@@ -10,11 +10,6 @@
 <br />
 > ✍ I'm 18 years old [UIT](https://utop.io/).
 <br />
-> ✍ I'm a science computer at [UIT](https://utop.io/).
-<br />
-> ✍ I'm a science computer at [UIT](https://utop.io/).
-<br />
-> ✍ I'm a science computer at [UIT](https://utop.io/).
 
 
 <br />
