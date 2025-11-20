@@ -10,6 +10,8 @@
 <br />
 > ✍ I'm 18 years old
 <br />
+> ✍ My hometown in Viet Nam, Kien Giang
+<br />
 
 
 <br />
