@@ -6,7 +6,7 @@
   <h3 align="center">A student in UIT </h3>
 </p>
 
-> ✍ I'm a science computer at [UIT](https://utop.io/).
+> ✍ I'm a science computer at [UIT](https://www.uit.edu.vn/).
 <br />
 > ✍ I'm 18 years old
 <br />
